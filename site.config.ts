@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '最后一吻',
-  domain: 'https://wablers.notion.site/OneLastKiss-2cd8cc2c5b6248948f23d44f00ef62bb',
+  domain: 'onelastkiss.eu.org',
   author: 'Manaka Asumi',
 
   // open graph metadata (optional)
