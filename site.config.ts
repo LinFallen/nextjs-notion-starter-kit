@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: '最后一吻',
-  domain: 'onelastkiss.eu.org',
+  domain: 'www.onelastkiss.eu.org',
   author: 'Manaka Asumi',
 
   // open graph metadata (optional)
