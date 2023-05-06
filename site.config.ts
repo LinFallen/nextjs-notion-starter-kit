@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Manaka Asumi',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: 'Just One More',
 
   // social usernames (optional)
   twitter: 'Manaka_Asumi',
